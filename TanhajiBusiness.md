@@ -1,0 +1,1 @@
+#Tanhaji is ahead of _all_ new releases [#Hindi]... Will continue to collect in coming week as well... [Week 4] Fri 2.77 cr, Sat 4.48 cr, Sun 6.28 cr, Mon 2.32 cr, Tue 2.05 cr. Total: ₹ 255.77 cr. #India biz. By Taran Adarsh
