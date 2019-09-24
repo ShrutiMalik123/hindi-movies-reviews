@@ -1,0 +1,1 @@
+The wait is over... Akshay Kumar as Bala and Harry... Check out the first look posters of #HouseFull4... Trailer on 27 Sept 2019... Directed by Farhad Samji... Produced by Sajid Nadiadwala... Co-produced by Fox Star Studios. by Taran Adarsh
