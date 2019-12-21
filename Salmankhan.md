@@ -8,3 +8,5 @@
 2019: #Bharat ₹ 42.30 cr
 2019: #Dabangg3 ₹ 24.50 cr
 #India biz.
+
+by Taran Adarsh
