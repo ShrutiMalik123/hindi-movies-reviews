@@ -1,0 +1,1 @@
+IT'S OFFICIAL... #RanbirKapoor and #ShraddhaKapoor in Luv Ranjan’s next film [not titled yet]... Produced by Luv Ranjan and Ankur Garg... 26 March 2021 release.
