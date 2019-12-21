@@ -4,3 +4,5 @@
 2014: #Mardaani ₹ 22.97 cr
 #India biz.
 ⭐️ #Mardaani2 is running in approx 750/800 screens in Week 2.
+
+By Taran Adarsh
