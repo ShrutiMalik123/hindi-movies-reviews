@@ -1,0 +1,1 @@
+#SidharthMalhotra and #KiaraAdvani... First look posters of #Shershaah... Directed by Vishnu Varadhan... Produced by Hiroo Yash Johar, Karan Johar, Apoorva Mehta, Shabbir Boxwala, Ajay Shah and Himanshu Gandhi... 3 July 2020 release. By Taran Adarsh
