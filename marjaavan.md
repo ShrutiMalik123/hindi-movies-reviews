@@ -1,0 +1,1 @@
+#Marjaavaan witnessed decline on [second] Fri, but picked up on Sat and Sun... Mass circuits continue to collect well... [Week 2] Fri 1.09 cr, Sat 1.64 cr, Sun 2.32 cr. Total: ₹ 42.92 cr. #India biz. by Taran Adarsh
