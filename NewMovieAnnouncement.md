@@ -1,1 +1,0 @@
-IT'S OFFICIAL... #DeepikaPadukone, #SiddhantChaturvedi and #AnanyaPanday in Shakun Batra’s next film [not titled yet]... Shakun [#EkMainAurEkkTu, #KapoorAndSons] will also produce the film with Karan Johar and Apoorva Mehta... Starts 2020... 12 Feb 2021 release [#ValentinesDay].
