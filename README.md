@@ -1,4 +1,4 @@
-This project of hindi movie reviews will make a react app for pulling Tarand Adarsh's Tiwtter API.
+This project of hindi movie reviews will make a react app for pulling Taran Adarsh's Twitter API.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
