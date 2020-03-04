@@ -1,4 +1,7 @@
 import React from "react";
+import PropTypes from "prop-types";
+import Context from "./context";
+import styles from "./styles";
 
 class Tweet extends React.Component {
   constructor(props) {

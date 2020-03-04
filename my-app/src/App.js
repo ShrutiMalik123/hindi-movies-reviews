@@ -1,6 +1,10 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import Tweet from "./components/tweet/tweet.js";
+import tweets from "./tweets";
+
+const linkProps = { target: "_blank" };
 
 function App() {
   return (
@@ -10,14 +14,11 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <div className="tweet-stream" style={{ width: "100%" }}>
+          {tweets.map((t, i) => (
+            <Tweet autoPlay={true} data={t} key={i} linkProps={linkProps} />
+          ))}
+        </div>
       </header>
     </div>
   );
