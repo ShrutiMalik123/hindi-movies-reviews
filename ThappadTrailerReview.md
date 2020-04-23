@@ -1,1 +1,0 @@
-Bold. Blunt. Straight-talking... #ThappadTrailer is relevant... #Mulk, #Article15, now #Thappad, Anubhav Sinha raises pertinent questions... Love the choices #Taapsee is making as an actor... : By Taran Adarash
